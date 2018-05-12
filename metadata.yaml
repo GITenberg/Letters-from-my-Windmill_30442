@@ -36,6 +36,8 @@ description: "Letters from My Windmill (French: Lettres de mon moulin) is a coll
   \ of four stories: \"The Three Low Masses\", \"The Elixir of Father Gaucher\", \"\
   The Priest of Cucugnan\" and \"The Secret Of Master Cornille\".\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30442#Letters-from-my-Windmill
 gutenberg_issued: '2009-11-10'
 gutenberg_type: Text
 identifiers:
