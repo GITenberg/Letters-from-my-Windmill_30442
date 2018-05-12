@@ -1,0 +1,64 @@
+_repo: Letters-from-my-Windmill_30442
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Adams, Keith
+    gutenberg_agent_id: '34613'
+    url: http://www.gutenberg.org/2009/agents/34613
+  - agent_name: Harmelin, Mireille
+    gutenberg_agent_id: '34612'
+    url: http://www.gutenberg.org/2009/agents/34612
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daudet, Alphonse
+    alias: Daudet, Louis Marie Alphonse
+    birthdate: 1840
+    deathdate: 1897
+    gutenberg_agent_id: '727'
+    url: http://www.gutenberg.org/2009/agents/727
+    wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
+description: "Letters from My Windmill (French: Lettres de mon moulin) is a collection\
+  \ of short stories by Alphonse Daudet first published in its entirety in 1869. Some\
+  \ of the stories had been published earlier in newspapers or journals such as Le\
+  \ Figaro and L'Evénement as early as 1865.\nThe stories are all told by the author\
+  \ in the first person, typically addressing a Parisian reader. The author, having\
+  \ relocated his home from Paris, recounts short bucolic tales about his new life\
+  \ in Provence as well as his trips to Corsica and French Algeria. Considered to\
+  \ be light-hearted, and often a bit tongue-in-cheek, the stories vary from day-to-day\
+  \ events in southern France to Provençal folktales, and often feature professions\
+  \ and faunal references characteristic of Provence.\nLetters From My Windmill is\
+  \ sometimes considered to be Daudet's most important work. It is cherished by many\
+  \ French, particularly in the South, for the picture it paints of the local culture.\n\
+  A French-language film with the same title was made in 1954 by Marcel Pagnol composed\
+  \ of four stories: \"The Three Low Masses\", \"The Elixir of Father Gaucher\", \"\
+  The Priest of Cucugnan\" and \"The Secret Of Master Cornille\".\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2009-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30442'
+  wikidata: Q180471
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'France -- Social life and customs -- Fiction'
+- !lcc 'PQ'
+title: Letters from my Windmill
+url: http://www.gutenberg.org/ebooks/30442
+wikipedia:
+- https://fr.wikipedia.org/wiki/Lettres_de_mon_moulin
+- https://ja.wikipedia.org/wiki/%E9%A2%A8%E8%BB%8A%E5%B0%8F%E5%B1%8B%E3%81%A0%E3%82%88%E3%82%8A
+- https://fa.wikipedia.org/wiki/%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A2%D8%B3%DB%8C%D8%A7%DB%8C_%D9%85%D9%86
+- https://de.wikipedia.org/wiki/Briefe_aus_meiner_M%C3%BChle
+- https://en.wikipedia.org/wiki/Letters_from_My_Windmill
+- https://es.wikipedia.org/wiki/Cartas_desde_mi_molino
+- https://hy.wikipedia.org/wiki/%D5%86%D5%A1%D5%B4%D5%A1%D5%AF%D5%B6%D5%A5%D6%80_%D5%AB%D5%B4_%D5%B0%D5%B8%D5%B2%D5%B4%D5%A1%D5%B2%D5%A1%D6%81%D5%AB%D6%81
+- https://it.wikipedia.org/wiki/Lettere_dal_mio_mulino
+- https://mt.wikipedia.org/wiki/Ittri_mill-Mit%C4%A7na_Tieg%C4%A7i
+- https://ta.wikipedia.org/wiki/%E0%AE%8E%E0%AE%A9%E0%AF%8D_%E0%AE%95%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81_%E0%AE%95%E0%AE%9F%E0%AE%BF%E0%AE%A4%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D
+- https://sv.wikipedia.org/wiki/Brev_fr%C3%A5n_min_kvarn
